@@ -3,6 +3,7 @@
     android:id="@+id/ScrollView01"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent" >
+
     <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
         android:layout_height="match_parent" >
@@ -17,11 +18,10 @@
         <LinearLayout
             android:orientation="horizontal"
             android:layout_width="match_parent"
-            android:layout_below="@+id/playText"
             android:weightSum="1"
             android:layout_height="wrap_content"
+            android:layout_below="@+id/playText"
             android:id="@+id/linearLayout">
-
 
 
             <ImageButton
@@ -120,4 +120,4 @@
         </LinearLayout>
     </RelativeLayout>
 
-</ScrollView><!-- From: file:/Users/loaner/Documents/seeds/NavigationDrawerExample/app/src/main/res/layout/fragment_play.xml -->
+</ScrollView><!-- From: file:/Users/loaner/Documents/seeds/NavigationDrawerExample/app/src/main/res/layout/activity_play.xml -->

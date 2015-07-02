@@ -11,6 +11,51 @@
         android:text="Home View"
         android:textSize="16dp" />
 
+    <TextView
+        android:id="@+id/username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Username"
+        android:gravity="center_horizontal"
+        android:textSize="50dp" />
+
+    <Button
+        android:layout_below="@id/username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Play"
+        android:layout_alignParentLeft="true"
+        android:background="#A1E455"
+        android:textColor="#FFFFFF"
+        android:id="@+id/play"
+        android:onClick= "pressHomeButton"/>
+
+    <Button
+        android:layout_below="@id/username"
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:text="Learn"
+        android:background="#69B5D1"
+        android:textColor="#FFFFFF"
+        android:layout_toRightOf="@id/play"
+        android:id="@+id/learn"
+        android:onClick= "pressHomeButton"/>
+
+    <Button
+        android:layout_below="@id/username"
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:text="Connect"
+        android:background="#EF9598"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@id/learn"
+        android:textColor="#FFFFFF"
+        android:id="@+id/connect"
+        android:onClick= "pressHomeButton"/>
+
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -19,4 +64,6 @@
         android:layout_marginTop="10dp"
         android:src="@drawable/ic_action_refresh" />
 
-</RelativeLayout><!-- From: file:/Users/loaner/Desktop/NavigationDrawerExample/app/src/main/res/layout/fragment_home.xml -->
+</RelativeLayout>
+
+<!-- From: file:/Users/loaner/Documents/seeds/NavigationDrawerExample/app/src/main/res/layout/fragment_home.xml -->
