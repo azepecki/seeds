@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<<<<<<< HEAD
-    <!-- From: file:/Users/loaner/Documents/seeds/NavigationDrawerExample/app/src/main/res/values/strings.xml -->
-=======
     <!-- From: file:/Users/loaner/Desktop/seeds/NavigationDrawerExample/app/src/main/res/values/strings.xml -->
->>>>>>> a16538de5e83c79bfba62e867f78ca3e0c4707aa
     <eat-comment/>
     <string-array name="navigation_drawer_items_array">
         <item>Home</item>
@@ -12,16 +8,6 @@
         <item>Learn</item>
         <item>Connect</item>
     </string-array>
-<<<<<<< HEAD
-    <!-- From: file:/Users/loaner/Documents/seeds/NavigationDrawerExample/app/src/main/res/values/styles.xml -->
-    <eat-comment/>
-    <color name="background">#f1ebe4</color>
-    <!-- From: file:/Users/loaner/Documents/seeds/NavigationDrawerExample/app/src/main/res/values/dimens.xml -->
-    <eat-comment/>
-    <dimen name="activity_horizontal_margin">16dp</dimen>
-    <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/Users/loaner/Documents/seeds/NavigationDrawerExample/app/src/main/res/values/strings.xml -->
-=======
     <!-- From: file:/Users/loaner/Desktop/seeds/NavigationDrawerExample/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <color name="background">#f1ebe4</color>
@@ -30,19 +16,14 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <!-- From: file:/Users/loaner/Desktop/seeds/NavigationDrawerExample/app/src/main/res/values/strings.xml -->
->>>>>>> a16538de5e83c79bfba62e867f78ca3e0c4707aa
     <eat-comment/>
     <string name="action_settings">Settings</string>
     <string name="app_name">seeds</string>
     <string name="drawer_close">Close navigation drawer</string>
     <string name="drawer_open">Open navigation drawer</string>
-<<<<<<< HEAD
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_home">HomeActivity</string>
-    <!-- From: file:/Users/loaner/Documents/seeds/NavigationDrawerExample/app/src/main/res/values/styles.xml -->
-=======
     <!-- From: file:/Users/loaner/Desktop/seeds/NavigationDrawerExample/app/src/main/res/values/styles.xml -->
->>>>>>> a16538de5e83c79bfba62e867f78ca3e0c4707aa
     <eat-comment/>
     <style name="AppTheme" parent="android:style/Theme.Holo.Light">
 

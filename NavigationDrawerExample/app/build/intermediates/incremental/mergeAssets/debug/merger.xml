@@ -1,6 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<<<<<<< HEAD
-<merger version="3"><dataSet config="main"><source path="/Users/loaner/Documents/seeds/NavigationDrawerExample/app/src/main/assets"/></dataSet><dataSet config="debug"><source path="/Users/loaner/Documents/seeds/NavigationDrawerExample/app/src/debug/assets"/></dataSet></merger>
-=======
 <merger version="3"><dataSet config="main"><source path="/Users/loaner/Desktop/seeds/NavigationDrawerExample/app/src/main/assets"/></dataSet><dataSet config="debug"><source path="/Users/loaner/Desktop/seeds/NavigationDrawerExample/app/src/debug/assets"/></dataSet></merger>
->>>>>>> a16538de5e83c79bfba62e867f78ca3e0c4707aa

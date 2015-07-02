@@ -41,41 +41,52 @@ public final class R {
         public static final int splash=0x7f020011;
     }
     public static final class id {
-<<<<<<< HEAD
-        public static final int ScrollView01=0x7f0b0004;
-        public static final int action_settings=0x7f0b0015;
-        public static final int content_frame=0x7f0b0001;
-        public static final int drawer_layout=0x7f0b0000;
-        public static final int imageButton=0x7f0b0006;
-        public static final int imageButton2=0x7f0b0007;
-        public static final int imageButton3=0x7f0b000c;
-        public static final int imageButton4=0x7f0b0009;
-        public static final int imageButton5=0x7f0b000a;
-        public static final int imageButton6=0x7f0b000d;
-        public static final int imageButton7=0x7f0b000f;
-        public static final int imageButton8=0x7f0b0010;
-        public static final int imageButton9=0x7f0b0011;
-        public static final int imageViewIcon=0x7f0b0012;
-        public static final int left_drawer=0x7f0b0002;
-        public static final int linearLayout=0x7f0b0005;
-        public static final int linearLayout2=0x7f0b0008;
-        public static final int linearLayout3=0x7f0b000b;
-        public static final int linearLayout4=0x7f0b000e;
-        public static final int progressBar1=0x7f0b0014;
-        public static final int textViewName=0x7f0b0013;
-        public static final int txtLabel=0x7f0b0003;
+        public static final int ScrollView01=0x7f0b0007;
+        public static final int action_settings=0x7f0b001d;
+        public static final int connect=0x7f0b0019;
+        public static final int content_frame=0x7f0b0005;
+        public static final int drawer_layout=0x7f0b0004;
+        public static final int imageButton=0x7f0b0009;
+        public static final int imageButton2=0x7f0b000a;
+        public static final int imageButton3=0x7f0b000f;
+        public static final int imageButton4=0x7f0b000c;
+        public static final int imageButton5=0x7f0b000d;
+        public static final int imageButton6=0x7f0b0010;
+        public static final int imageButton7=0x7f0b0012;
+        public static final int imageButton8=0x7f0b0013;
+        public static final int imageButton9=0x7f0b0014;
+        public static final int imageViewIcon=0x7f0b001a;
+        public static final int javaButton=0x7f0b0002;
+        public static final int learn=0x7f0b0018;
+        public static final int learnText=0x7f0b0000;
+        public static final int left_drawer=0x7f0b0006;
+        public static final int linearLayout=0x7f0b0001;
+        public static final int linearLayout2=0x7f0b000b;
+        public static final int linearLayout3=0x7f0b000e;
+        public static final int linearLayout4=0x7f0b0011;
+        public static final int play=0x7f0b0017;
+        public static final int playText=0x7f0b0008;
+        public static final int progressBar1=0x7f0b001c;
+        public static final int pythonButton=0x7f0b0003;
+        public static final int textViewName=0x7f0b001b;
+        public static final int txtLabel=0x7f0b0015;
+        public static final int username=0x7f0b0016;
     }
     public static final class layout {
-        public static final int activity_main=0x7f040000;
-        public static final int fragment_connect=0x7f040001;
-        public static final int fragment_home=0x7f040002;
-        public static final int fragment_learn=0x7f040003;
-        public static final int fragment_play=0x7f040004;
-        public static final int listview_item_row=0x7f040005;
-        public static final int splashscreen=0x7f040006;
+        public static final int activity_connect=0x7f040000;
+        public static final int activity_learn=0x7f040001;
+        public static final int activity_main=0x7f040002;
+        public static final int activity_play=0x7f040003;
+        public static final int fragment_connect=0x7f040004;
+        public static final int fragment_home=0x7f040005;
+        public static final int fragment_learn=0x7f040006;
+        public static final int fragment_play=0x7f040007;
+        public static final int listview_item_row=0x7f040008;
+        public static final int splashscreen=0x7f040009;
     }
     public static final class menu {
         public static final int main=0x7f0a0000;
+        public static final int menu_home=0x7f0a0001;
     }
     public static final class mipmap {
         public static final int splash=0x7f030000;
@@ -85,83 +96,8 @@ public final class R {
         public static final int app_name=0x7f090001;
         public static final int drawer_close=0x7f090002;
         public static final int drawer_open=0x7f090003;
-=======
-<<<<<<< HEAD
-        public static final int ScrollView01=0x7f0a0007;
-        public static final int action_settings=0x7f0a001b;
-        public static final int connect=0x7f0a0018;
-        public static final int content_frame=0x7f0a0005;
-        public static final int drawer_layout=0x7f0a0004;
-        public static final int imageButton=0x7f0a0009;
-        public static final int imageButton2=0x7f0a000a;
-        public static final int imageButton3=0x7f0a000f;
-        public static final int imageButton4=0x7f0a000c;
-        public static final int imageButton5=0x7f0a000d;
-        public static final int imageButton6=0x7f0a0010;
-        public static final int imageButton7=0x7f0a0012;
-        public static final int imageButton8=0x7f0a0013;
-        public static final int imageViewIcon=0x7f0a0019;
-        public static final int javaButton=0x7f0a0002;
-        public static final int learn=0x7f0a0017;
-        public static final int learnText=0x7f0a0000;
-        public static final int left_drawer=0x7f0a0006;
-        public static final int linearLayout=0x7f0a0001;
-        public static final int linearLayout2=0x7f0a000b;
-        public static final int linearLayout3=0x7f0a000e;
-        public static final int linearLayout4=0x7f0a0011;
-        public static final int play=0x7f0a0016;
-        public static final int playText=0x7f0a0008;
-        public static final int pythonButton=0x7f0a0003;
-        public static final int textViewName=0x7f0a001a;
-        public static final int txtLabel=0x7f0a0014;
-        public static final int username=0x7f0a0015;
-=======
-        public static final int ScrollView01=0x7f0a0004;
-        public static final int action_settings=0x7f0a0014;
-        public static final int content_frame=0x7f0a0001;
-        public static final int drawer_layout=0x7f0a0000;
-        public static final int imageButton=0x7f0a0006;
-        public static final int imageButton2=0x7f0a0007;
-        public static final int imageButton3=0x7f0a000c;
-        public static final int imageButton4=0x7f0a0009;
-        public static final int imageButton5=0x7f0a000a;
-        public static final int imageButton6=0x7f0a000d;
-        public static final int imageButton7=0x7f0a000f;
-        public static final int imageButton8=0x7f0a0010;
-        public static final int imageButton9=0x7f0a0011;
-        public static final int imageViewIcon=0x7f0a0012;
-        public static final int left_drawer=0x7f0a0002;
-        public static final int linearLayout=0x7f0a0005;
-        public static final int linearLayout2=0x7f0a0008;
-        public static final int linearLayout3=0x7f0a000b;
-        public static final int linearLayout4=0x7f0a000e;
-        public static final int textViewName=0x7f0a0013;
-        public static final int txtLabel=0x7f0a0003;
->>>>>>> a16538de5e83c79bfba62e867f78ca3e0c4707aa
-    }
-    public static final class layout {
-        public static final int activity_connect=0x7f030000;
-        public static final int activity_learn=0x7f030001;
-        public static final int activity_main=0x7f030002;
-        public static final int activity_play=0x7f030003;
-        public static final int fragment_connect=0x7f030004;
-        public static final int fragment_home=0x7f030005;
-        public static final int fragment_learn=0x7f030006;
-        public static final int fragment_play=0x7f030007;
-        public static final int listview_item_row=0x7f030008;
-    }
-    public static final class menu {
-        public static final int main=0x7f090000;
-        public static final int menu_home=0x7f090001;
-    }
-    public static final class string {
-        public static final int action_settings=0x7f080000;
-        public static final int app_name=0x7f080001;
-        public static final int drawer_close=0x7f080002;
-        public static final int drawer_open=0x7f080003;
-        public static final int hello_world=0x7f080004;
-        public static final int title_activity_home=0x7f080005;
->>>>>>> origin/master
+        public static final int hello_world=0x7f090004;
+        public static final int title_activity_home=0x7f090005;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 

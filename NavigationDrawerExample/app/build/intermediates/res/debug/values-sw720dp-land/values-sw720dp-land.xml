@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<<<<<<< HEAD
-    <!-- From: file:/Users/loaner/Documents/seeds/NavigationDrawerExample/app/src/main/res/values-sw720dp-land/dimens.xml -->
-=======
     <!-- From: file:/Users/loaner/Desktop/seeds/NavigationDrawerExample/app/src/main/res/values-sw720dp-land/dimens.xml -->
->>>>>>> a16538de5e83c79bfba62e867f78ca3e0c4707aa
     <eat-comment/>
     <dimen name="activity_horizontal_margin">128dp</dimen>
 </resources>
