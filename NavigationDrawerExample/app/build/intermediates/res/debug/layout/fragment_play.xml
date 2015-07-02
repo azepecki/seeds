@@ -7,6 +7,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent" >
 
+<<<<<<< Updated upstream
         <TextView
             android:id="@+id/playText"
             android:layout_width="wrap_content"
@@ -14,6 +15,10 @@
             android:text="Play"
             android:gravity="center_horizontal"
             android:textSize="50dp" />
+=======
+
+        <LinearLayout
+>>>>>>> Stashed changes
 
         <LinearLayout
             android:orientation="horizontal"
@@ -130,8 +135,12 @@
     </RelativeLayout>
 
 
+<<<<<<< Updated upstream
 </ScrollView>
 
 
 
 <!-- From: file:/Users/loaner/Desktop/seeds/NavigationDrawerExample/app/src/main/res/layout/fragment_play.xml -->
+=======
+ </ScrollView><!-- From: file:/Users/sonia9uppal/seeds/NavigationDrawerExample/app/src/main/res/layout/fragment_play.xml -->
+>>>>>>> Stashed changes
