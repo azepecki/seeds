@@ -30,8 +30,17 @@ public final class R {
         public static final int ic_action_share=0x7f020006;
         public static final int ic_drawer=0x7f020007;
         public static final int ic_launcher=0x7f020008;
+        public static final int sample_0=0x7f020009;
+        public static final int sample_1=0x7f02000a;
+        public static final int sample_2=0x7f02000b;
+        public static final int sample_3=0x7f02000c;
+        public static final int sample_4=0x7f02000d;
+        public static final int sample_5=0x7f02000e;
+        public static final int sample_6=0x7f02000f;
+        public static final int sample_7=0x7f020010;
     }
     public static final class id {
+<<<<<<< HEAD
         public static final int ScrollView01=0x7f0a0007;
         public static final int action_settings=0x7f0a001b;
         public static final int connect=0x7f0a0018;
@@ -60,6 +69,29 @@ public final class R {
         public static final int textViewName=0x7f0a001a;
         public static final int txtLabel=0x7f0a0014;
         public static final int username=0x7f0a0015;
+=======
+        public static final int ScrollView01=0x7f0a0004;
+        public static final int action_settings=0x7f0a0014;
+        public static final int content_frame=0x7f0a0001;
+        public static final int drawer_layout=0x7f0a0000;
+        public static final int imageButton=0x7f0a0006;
+        public static final int imageButton2=0x7f0a0007;
+        public static final int imageButton3=0x7f0a000c;
+        public static final int imageButton4=0x7f0a0009;
+        public static final int imageButton5=0x7f0a000a;
+        public static final int imageButton6=0x7f0a000d;
+        public static final int imageButton7=0x7f0a000f;
+        public static final int imageButton8=0x7f0a0010;
+        public static final int imageButton9=0x7f0a0011;
+        public static final int imageViewIcon=0x7f0a0012;
+        public static final int left_drawer=0x7f0a0002;
+        public static final int linearLayout=0x7f0a0005;
+        public static final int linearLayout2=0x7f0a0008;
+        public static final int linearLayout3=0x7f0a000b;
+        public static final int linearLayout4=0x7f0a000e;
+        public static final int textViewName=0x7f0a0013;
+        public static final int txtLabel=0x7f0a0003;
+>>>>>>> a16538de5e83c79bfba62e867f78ca3e0c4707aa
     }
     public static final class layout {
         public static final int activity_connect=0x7f030000;

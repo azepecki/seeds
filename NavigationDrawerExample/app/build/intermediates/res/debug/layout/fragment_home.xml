@@ -64,6 +64,10 @@
         android:layout_marginTop="10dp"
         android:src="@drawable/ic_action_refresh" />
 
+<<<<<<< HEAD
 </RelativeLayout>
 
 <!-- From: file:/Users/loaner/Documents/seeds/NavigationDrawerExample/app/src/main/res/layout/fragment_home.xml -->
+=======
+</RelativeLayout><!-- From: file:/Users/loaner/Desktop/seeds/NavigationDrawerExample/app/src/main/res/layout/fragment_home.xml -->
+>>>>>>> a16538de5e83c79bfba62e867f78ca3e0c4707aa

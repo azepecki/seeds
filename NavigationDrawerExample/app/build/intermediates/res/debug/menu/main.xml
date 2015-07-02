@@ -7,4 +7,8 @@
         android:title="@string/action_settings"/>
 
 </menu>
+<<<<<<< HEAD
 <!-- From: file:/Users/loaner/Documents/seeds/NavigationDrawerExample/app/src/main/res/menu/main.xml -->
+=======
+<!-- From: file:/Users/loaner/Desktop/seeds/NavigationDrawerExample/app/src/main/res/menu/main.xml -->
+>>>>>>> a16538de5e83c79bfba62e867f78ca3e0c4707aa
