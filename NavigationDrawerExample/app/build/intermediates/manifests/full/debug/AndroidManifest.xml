@@ -8,6 +8,14 @@
         android:minSdkVersion="8"
         android:targetSdkVersion="18" />
 
+    <android:uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
@@ -32,6 +40,14 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.navigationdrawerexample.HomeActivity"
+            android:label="@string/title_activity_home"
+            android:parentActivityName="com.example.navigationdrawerexample.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.navigationdrawerexample.MainActivity" />
         </activity>
     </application>
 

@@ -3,6 +3,7 @@ package com.example.navigationdrawerexample;
 //Thank you to https://www.codeofaninja.com/2014/02/android-navigation-drawer-example.html
 //for the source code of the basic layout of the navigation drawer!
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.app.Activity;
 import android.app.Fragment;
@@ -22,6 +23,7 @@ public class MainActivity extends Activity {
     private String[] mNavigationDrawerItemTitles;
     private DrawerLayout mDrawerLayout;
     private ListView mDrawerList;
+    public static String MESSAGE = "play";
 
     private ActionBarDrawerToggle mDrawerToggle;
 
@@ -186,5 +188,21 @@ public class MainActivity extends Activity {
     public void setTitle(CharSequence title) {
         mTitle = title;
         getActionBar().setTitle(mTitle);
+    }
+
+    public void pressHomeButton(View view) {
+        Intent intent = new Intent(this, HomeActivity.class);
+        switch (view.getId()) {
+            case R.id.play:
+                MESSAGE = "play";
+                break;
+            case R.id.learn:
+                MESSAGE = "learn";
+                break;
+            case R.id.connect:
+                MESSAGE = "connect";
+                break;
+        }
+        startActivity(intent);
     }
 }
