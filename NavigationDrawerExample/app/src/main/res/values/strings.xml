@@ -16,6 +16,6 @@
     <string name="drawer_close">Close navigation drawer</string>
     <string name="title_activity_home">HomeActivity</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="signing_in">Please wait, we are signing you in :) </string>
 
 </resources>
