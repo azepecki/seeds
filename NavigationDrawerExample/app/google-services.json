@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {"project_info":{"project_id":"seeds-606d6","project_number":"460492958642","name":"seeds"},
   "client":[{"client_info":{"client_id":"android:com.example.navigationdrawerexample","client_type":1,
     "android_client_info":{"package_name":"com.example.navigationdrawerexample"}},
@@ -8,3 +9,6 @@
       "cloud_messaging_service":{"status":2,"apns_config":[]},
       "appinvite_service":{"status":2,"other_platform_oauth_client":[]},
       "google_signin_service":{"status":2},"ads_service":{"status":1}}}]}
+=======
+{"project_info":{"project_id":"seeds-606d6","project_number":"460492958642","name":"seeds"},"client":[{"client_info":{"client_id":"android:com.example.navigationdrawerexample","client_type":1,"android_client_info":{"package_name":"com.example.navigationdrawerexample"}},"oauth_client":[{"client_id":"460492958642-2uhs9uslq3k014puscboemvqgj4q4sqd.apps.googleusercontent.com","client_type":1,"android_info":{"package_name":"com.example.navigationdrawerexample","certificate_hash":"5f37591f9a8618946944cb80ea8546e579efc49a"}}],"services":{"analytics_service":{"status":1},"cloud_messaging_service":{"status":2,"apns_config":[]},"appinvite_service":{"status":2,"other_platform_oauth_client":[]},"google_signin_service":{"status":2},"ads_service":{"status":1}}}]}
+>>>>>>> origin/master
